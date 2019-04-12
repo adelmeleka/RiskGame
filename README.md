@@ -1,0 +1,2 @@
+# RiskGame
+Risk is a popular game for major strategy type players. In Risk, the objective is to conquer the world by attacking to acquire territory and defending your own territory from your opponents. Risk is a turn-based game and is best if played with two to six players. In this assignment, you will be developing an abstract and simple GUI version of the Risk game, but you need to understand the rules of the full version.
